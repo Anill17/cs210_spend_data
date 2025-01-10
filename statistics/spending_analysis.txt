@@ -1,0 +1,44 @@
+=== Overall Spending Statistics ===
+Total Transactions: 341
+Total Spending: 56,632.61 TL
+Average Transaction: 166.08 TL
+Median Transaction: 89.00 TL
+Largest Transaction: 1990.22 TL
+
+=== Time-Based Analysis ===
+Weekend vs Weekday Average: 173.36 TL vs 163.50 TL
+Busiest Day of Week: Wednesday
+Most Expensive Day of Week: Tuesday
+
+=== Merchant Analysis ===
+Total Unique Merchants: 252
+Most Frequent Merchant: ATLI OTOMOTİV İSTANBUL TR KAZANILAN MAXİMİL:1 (11 transactions)
+Highest Total Spending Merchant: 13631 BAYRAMIC EVCILERCANAKKALETRKAZANILANMAXİMİL:0,94 MAXİP (62.50 TL)
+
+=== Midterm Period Analysis ===
+Midterm Daily Average: 287.26 TL
+Regular Daily Average: 792.78 TL
+
+=== Advanced Analysis ===
+Spending Trend Coefficient: -5.21 TL/day
+R-squared (trend fit): 0.036
+
+=== Top 5 Spending Days ===
+2024-10-22: 2675.39 TL
+2024-11-04: 2372.22 TL
+2024-10-12: 2363.90 TL
+2024-09-25: 2196.14 TL
+2024-09-23: 2026.07 TL
+
+=== Transaction Size Distribution ===
+25th Percentile: 50.00 TL
+75th Percentile: 235.00 TL
+Interquartile Range: 185.00 TL
+
+=== Spending Volatility ===
+Daily Spending Standard Deviation: 645.34 TL
+Coefficient of Variation: 0.923
+
+=== Merchant Category Analysis ===
+Average Transactions per Merchant: 1.4
+Merchant Concentration (Top 10% Share): 42.7%
